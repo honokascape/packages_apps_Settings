@@ -345,4 +345,8 @@
     <!-- Hide developer status -->
     <string name="hide_developer_status_title">Hide developer status</string>
     <string name="hide_developer_status_summary">Hide developer status from apps</string>
+
+    <!-- Colored icons -->
+    <string name="statusbar_icons_style">Colored status bar icons</string>
+    <string name="statusbar_icons_style_summary">Use proper app icons for notification icons in status bar</string>
 </resources>
